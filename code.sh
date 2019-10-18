@@ -1,1 +1,3 @@
 uptime
+free -m
+
